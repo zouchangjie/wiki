@@ -9,3 +9,4 @@ setup.py是爬虫的启动文件，启动后会爬取wiki中乔布斯词条的�
 
 第三部分：
 conn_dat里把版本前后相应关系放到文件中。我用的是gephi这个软件可视化这些版本相应关系。
+wiki_spiker_bigdata/image/diff.png
